@@ -1,0 +1,9 @@
+# editorconfig.org
+root = true
+[*]
+indent_style = space
+indent_size = 3
+end_of_line = utf-8
+trim_trailing_whitespace = true
+[*.md]
+trim_trailing_whitespace = false
